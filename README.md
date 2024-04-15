@@ -7,6 +7,6 @@
   - [Cloud Security Part 2 - Rubric](https://shorturl.at/GKOX8)
   - [Cloud Security Part 2 - Completed](https://shorturl.at/aD479)
   
-- <h2> Certificaitons</h2>
+- <h2>📄 Certificaitons</h2>
     CompTIA Security+
-    
+
